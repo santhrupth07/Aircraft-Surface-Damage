@@ -1,0 +1,6 @@
+train: C:\Users\Manju\PROJECTS\Aircraft-Surface-Damage\dataset\images\train
+val: C:\Users\Manju\PROJECTS\Aircraft-Surface-Damage\dataset\images\val
+test: C:\Users\Manju\PROJECTS\Aircraft-Surface-Damage\test\images
+
+nc: 3
+names: ['corrosion', 'crack', 'dent']
